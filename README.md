@@ -5,9 +5,14 @@ This repository contains a simple calculator app built using .NET MAUI. The purp
 ## Screenshots
 Here are few screenshots showcasing the user interface and functionality of the calculator app:
 
-<img src="Images/mainScreen.png" alt="Screenshot of Main Screen" height="300" align="center" />
+<img src="Images/androidMainScreen.png" alt="Screenshot of Main Screen" height="300" />
 
-Description: The main screen of the calculator app displaying the user interface.
+Description: The main screen of the calculator app displaying the user interface on the android platform.
+
+
+<img src="Images/windowsMainScreen.png" alt="Screenshot of Main Screen" height="300" />
+
+Description: The main screen of the calculator app displaying the user interface on the windows platform.
 
 ## Prerequisites
 Before running the app, make sure you have the following prerequisites installed:
