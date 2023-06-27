@@ -22,6 +22,7 @@ Before running the app, make sure you have the following prerequisites installed
 - .NET MAUI
 - Android SDK Platform 33
 - Android 12.0 S
+- Pixel 5 - API 33 (For Android Platform)
 
 ## Getting Started
 To get started with the calculator app, follow these steps:
@@ -31,11 +32,9 @@ To get started with the calculator app, follow these steps:
 
 2. Open the solution file (CalculatorApp.sln) in Visual Studio.
 
-3. Select the desired target platform (Android, iOS, or Windows) and run the app from your IDE. For this project we used Android Platform for this project.
+3. Select the desired target platform (Android, iOS, or Windows) and run the app from your IDE.
 
-4. Install the android device to run the application. For this project we used Pixel 5 - API 33.
-
-5. Build and Run the project.
+4. Build and Run the project.
 
 ## Features
 The calculator app includes the following features:
