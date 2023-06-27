@@ -35,6 +35,8 @@ To get started with the calculator app, follow these steps:
 
 4. Install the android device to run the application. For this project we used Pixel 5 - API 33.
 
+5. Build and Run the project.
+
 ## Features
 The calculator app includes the following features:
 
