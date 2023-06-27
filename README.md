@@ -4,20 +4,18 @@ This repository contains a simple calculator app built using .NET MAUI. The purp
 
 ## Screenshots
 Here a few screenshots showcasing the user interface and functionality of the calculator app:
-IMAGE
-Description: The main screen of the calculator app displaying the user interface.
 
 IMAGE
-Description: Performing a calculation, showcasing the real-time display of the result.
+Description: The main screen of the calculator app displaying the user interface.
 
 ## Prerequisites
 Before running the app, make sure you have the following prerequisites installed:
 
-Visual Studio
-.NET Core 7
-.NET MAUI
-Android SDK Platform 33
-Android 12.0 S
+- Visual Studio
+- .NET Core 7
+- .NET MAUI
+- Android SDK Platform 33
+- Android 12.0 S
 
 ## Getting Started
 To get started with the calculator app, follow these steps:
@@ -49,6 +47,6 @@ This project was developed as a practice project to explore the capabilities of 
 - [.NET MAUI GitHub Repository](https://github.com/dotnet/maui)
 
 ## About the Author
-This project was created by [Your Name]. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hashim-atiq/) for any questions or further discussions.
+This project was created by Hashim Atiq. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hashim-atiq/) for any questions or further discussions.
 
 Happy calculating!
