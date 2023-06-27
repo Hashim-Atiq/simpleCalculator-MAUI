@@ -3,9 +3,10 @@
 This repository contains a simple calculator app built using .NET MAUI. The purpose of this project is to explore the capabilities and flexibility of .NET MAUI as a cross-platform development framework. The app provides basic arithmetic operations and aims to demonstrate the ease of developing mobile applications using .NET MAUI.
 
 ## Screenshots
-Here a few screenshots showcasing the user interface and functionality of the calculator app:
+Here are few screenshots showcasing the user interface and functionality of the calculator app:
 
-IMAGE
+<img src="Images/mainScreen.png" alt="Screenshot of Main Screen" height="300" align="center" />
+
 Description: The main screen of the calculator app displaying the user interface.
 
 ## Prerequisites
