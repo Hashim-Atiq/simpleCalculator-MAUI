@@ -30,7 +30,7 @@ To get started with the calculator app, follow these steps:
 1. Clone this repository to your local machine:
 `https://github.com/Hashim-Atiq/simpleCalculator-MAUI.git`
 
-2. Open the solution file (CalculatorApp.sln) in Visual Studio.
+2. Open the solution file (SimpleCalculator.sln) in Visual Studio.
 
 3. Select the desired target platform (Android, iOS, or Windows) and run the app from your IDE.
 
